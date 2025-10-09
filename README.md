@@ -3,12 +3,12 @@
 
 ### Задание 1. 
 Если изменить цвет текста в файле, то на конце каждой строки появятся символы - Wh!t3_c0L\
-<img src="images/1.png" alt="drawing" width="400"/>\
+<img src="image/1.png" alt="drawing" width="400"/>\
 Ответ: mospoly{Wh!t3_c0L} 
 
 ### Задание 2. 
 С помощью идентификатора шифра определяем сам шифр – Codons, затем декодируем его и получаем:\
-<img src="images/2.png" alt="drawing" width="400"/>\
+<img src="image/2.png" alt="drawing" width="400"/>\
 Как сказано в условии задания, добавляем букву для корректного написания фразы и получаем – WHOSEDNAISTHIS\
 Ответ: mospoly{WHOSEDNAISTHIS} 
 
@@ -28,10 +28,10 @@ for i in range(7):
 print(''.join(flag))
 ```
 И получаем:\
-<img src="images/4.png" alt="drawing" width="400"/>\
+<img src="image/4.png" alt="drawing" width="400"/>\
 Ответ: mospoly{B3g3m0T} 
 
 ### Задание 4. 
 Отфильтровываем http-трафик, так как злоумышленник получил доступ к веб-серверу, который работает по http, и ищем признаки sql-инъекции. В 347 строке первый раз встречается «%27», что является проверкой на уязвимость. А после этого следует эксплуатация в 357 строке, что и будет ответом\
-<img src="images/5.png" alt="drawing" width="600"/>\
+<img src="image/5.png" alt="drawing" width="600"/>\
 Ответ: mospoly{357} 
