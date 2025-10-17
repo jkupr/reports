@@ -5,9 +5,9 @@
 ```
 nmap -sn 192.168.0.0/24
 ```
-<img src="image/6.png" alt="nmap" width="400"/>\
+<img src="image/6.png" alt="nmap" width="400"/>\ 
 2. Перехожу на сайт DVWA\ 
-<img src="image/7.png" alt="DVWA" width="400"/>\
+<img src="image/7.png" alt="DVWA" width="400"/>\ 
 3. C помощью dirbuster провожу сканирование директории vulnerabilities\ 
 <img src="image/8.png" alt="\vulnerabilities\" width="400"/>\
 Ответ: 4 директории\ 
