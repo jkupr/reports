@@ -10,7 +10,7 @@ nmap -sn 192.168.0.0/24
 2. Перехожу на сайт DVWA 
 <img src="image/7.png" alt="DVWA" width="500"/>
 
-4. C помощью dirbuster провожу сканирование директории vulnerabilities 
+3. C помощью dirbuster провожу сканирование директории vulnerabilities 
 <img src="image/8.png" alt="\vulnerabilities\" width="500"/>
 
 Ответ: 4 директории 
@@ -20,15 +20,15 @@ nmap -sn 192.168.0.0/24
 
 <img src="image/9.png" alt="Low" width="500"/> 
 
-3. Настраиваю Proxy в браузере для Burp Suite
+2. Настраиваю Proxy в браузере для Burp Suite
 
 <img src="image/10.png" alt="Proxy" width="500"/> 
 
-5. Вписываю рандомные логин, пароль и перехватываю GET запрос с ними
+3. Вписываю рандомные логин, пароль и перехватываю GET запрос с ними
 
 <img src="image/11.png" alt="GET" width="500"/> 
 
-7. В Intruder в режиме Cluster bomb провожу атаку, используя прикрепленный словарь, и нахожу нужную комбинацию
+4. В Intruder в режиме Cluster bomb провожу атаку, используя прикрепленный словарь, и нахожу нужную комбинацию
 
 <img src="image/12.png" alt="Attack" width="500"/> 
 
@@ -39,13 +39,13 @@ nmap -sn 192.168.0.0/24
 
 <img src="image/13.png" alt="Low" width="500"/> 
 
-3. Перехватываю запрос с помощью Burp Suite и перенаправляю его в Intruder. Сканирую все логины, прикрепленные в задании и нахожу верный - auction
+2. Перехватываю запрос с помощью Burp Suite и перенаправляю его в Intruder. Сканирую все логины, прикрепленные в задании и нахожу верный - auction
 
 <img src="image/14.png" alt="Low" width="500"/> 
 
 <img src="image/15.png" alt="Low" width="500"/> 
 
-5. Затем меняю логин в запросе на "auction" и далее сканирую все пароли. Верный - michelle
+3. Затем меняю логин в запросе на "auction" и далее сканирую все пароли. Верный - michelle
 
 <img src="image/16.png" alt="Low" width="500"/> 
 
