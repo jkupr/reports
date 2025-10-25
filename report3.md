@@ -75,3 +75,5 @@
 ```
 Ответ: FLAG{bin_user_2_A13f8f02}
 ```
+
+<img src="image/40.png" alt="report" width="500"/>
