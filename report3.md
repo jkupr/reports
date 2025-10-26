@@ -75,5 +75,18 @@
 ```
 Ответ: FLAG{bin_user_2_A13f8f02}
 ```
+### Задание Node.js moment 
+1. Ввожу рандомные данные и перехватываю запрос, отправляя его в Repeater
+<img src="image/41.png" alt="report" width="500"/>
 
-<img src="image/40.png" alt="report" width="500"/>
+2. Вставляю цепочку middleware, чтобы обойти авторизацию
+<img src="image/42.png" alt="report" width="500"/>
+
+3. Отправляю и получаю флаг 
+<img src="image/43.png" alt="report" width="500"/>
+
+```
+Ответ: mospoly{n3Xtjs__bYp4ss_eNt0_zN4t_nAd0}
+```
+### Результат 
+<img src="image/44.png" alt="report" width="500"/>
