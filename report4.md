@@ -28,7 +28,7 @@
 <img src="image/53.png" alt="drawing" width="400"/>
 
 Полезная нагрузка отражается, но CSP препятствует выполнению скрипта\
-<img src="image/55png" alt="drawing" width="400"/>
+<img src="image/55.png" alt="drawing" width="400"/>
 
 Меняю токен, чтобы разрешить скрипт\
 <img src="image/56.png" alt="drawing" width="400"/>
