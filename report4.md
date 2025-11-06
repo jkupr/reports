@@ -62,6 +62,28 @@
 
 <img src="image/68.png" alt="drawing" width="400"/>
 
+## Криптография
+1. yckecwwmieouzgkswckrkuo - шифр Виженера
+<img src="image/70.png" alt="drawing" width="400"/>
+
+```
+mospolytechilovelerninc
+```
+
+2. cimenmhnmllmmigolmoempvmsomtrmyem - шифр с перестановкой столбцов
+<img src="image/71.png" alt="drawing" width="400"/>
+
+```
+mospolytechilovelerningmmmmmmmmmm
+```
+
+3. aaaaaaaaaaaedeukaucruug - шифр Бофорта
+<img src="image/72.png" alt="drawing" width="400"/>
+
+```
+mospolytechilovelerning
+```
+
 ## Конспекты 
 ### IPC: To Share Memory Or To Send Messages
 ```
