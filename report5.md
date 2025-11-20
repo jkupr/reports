@@ -12,7 +12,7 @@ https://ctflearn.com/challenge/97
 Скрыто множество файлов. Извлекаю их и перехожу в созданную папку\
 <img src="image/75.png" alt="drawing" width="400"/>
 
-Дальше просматриваю извлеченные файлы и перехожу в "Secret Stuff..." - "Don`t Open This...". В последней папке есть файл "I Warned You.jpeg".
+Дальше просматриваю извлеченные файлы и перехожу в "Secret Stuff..." - "Don`t Open This...". В последней папке есть файл "I Warned You.jpeg".\
 <img src="image/76.png" alt="drawing" width="400"/>
 
 Извлекаю строки этого файла, сразу же отфильтровывая по началу флага, и нахожу флаг\
